@@ -1,0 +1,30 @@
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 10%] Built target doc_proto
+[ 10%] Built target geometry_proto
+[ 15%] Built target force_proto
+[ 20%] Built target robot_proto
+[ 24%] Built target LinkLegModel
+[ 29%] Built target motor_proto
+[ 34%] Built target power_proto
+[ 39%] Built target sensor_proto
+[ 43%] Built target LegModel
+[ 46%] Built target cpg_node
+[ 50%] Built target cpg_node_webot
+[ 50%] Built target _quadruped_generate_messages_check_deps_motor
+[ 50%] Built target _quadruped_generate_messages_check_deps_LegStamped
+[ 50%] Built target _quadruped_generate_messages_check_deps_force
+[ 50%] Built target _quadruped_generate_messages_check_deps_impedance
+[ 50%] Built target _quadruped_generate_messages_check_deps_RobotStamped
+[ 67%] Built target quadruped_generate_messages_eus
+[ 68%] Built target quadruped_generate_messages_lisp
+[ 79%] Built target quadruped_generate_messages_py
+[ 87%] Built target quadruped_generate_messages_nodejs
+[ 96%] Built target quadruped_generate_messages_cpp
+[ 96%] Built target quadruped_generate_messages
+[ 98%] [32mBuilding CXX object src/ros_corgi_bridge/CMakeFiles/ros_corgi_bridge.dir/src/main.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/ros_corgi_bridge[0m
+[100%] Built target ros_corgi_bridge

@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC  -w -fPIC -O3 -shared -Wl,-soname,libLinkLegModel.so -o /home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/libLinkLegModel.so CMakeFiles/LinkLegModel.dir/LinkLegModel.cpp.o 

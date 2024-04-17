@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped",
+  "command": "/usr/bin/g++ -DCARES_STATICLIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"quadruped\\\" -Dgeometry_proto_EXPORTS -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped -isystem /home/guanlunlu/.local/include  -w -fPIC -O3 -fPIC -std=gnu++14 -o CMakeFiles/geometry_proto.dir/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/geometry.pb.cc.o -c /home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/geometry.pb.cc",
+  "file": "/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/geometry.pb.cc"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped",
+  "command": "/usr/bin/g++ -DCARES_STATICLIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"quadruped\\\" -Ddoc_proto_EXPORTS -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped -isystem /home/guanlunlu/.local/include  -w -fPIC -O3 -fPIC -std=gnu++14 -o CMakeFiles/doc_proto.dir/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/doc.pb.cc.o -c /home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/doc.pb.cc",
+  "file": "/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/doc.pb.cc"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped",
+  "command": "/usr/bin/g++ -DCARES_STATICLIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"quadruped\\\" -Dforce_proto_EXPORTS -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped -isystem /home/guanlunlu/.local/include  -w -fPIC -O3 -fPIC -std=gnu++14 -o CMakeFiles/force_proto.dir/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/force.pb.cc.o -c /home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/force.pb.cc",
+  "file": "/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/force.pb.cc"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped",
+  "command": "/usr/bin/g++ -DCARES_STATICLIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"quadruped\\\" -Drobot_proto_EXPORTS -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped -isystem /home/guanlunlu/.local/include  -w -fPIC -O3 -fPIC -std=gnu++14 -o CMakeFiles/robot_proto.dir/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/robot.pb.cc.o -c /home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/robot.pb.cc",
+  "file": "/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/robot.pb.cc"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped",
+  "command": "/usr/bin/g++ -DCARES_STATICLIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"quadruped\\\" -Dmotor_proto_EXPORTS -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped -isystem /home/guanlunlu/.local/include  -w -fPIC -O3 -fPIC -std=gnu++14 -o CMakeFiles/motor_proto.dir/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/motor.pb.cc.o -c /home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/motor.pb.cc",
+  "file": "/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/motor.pb.cc"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped",
+  "command": "/usr/bin/g++ -DCARES_STATICLIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"quadruped\\\" -Dpower_proto_EXPORTS -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped -isystem /home/guanlunlu/.local/include  -w -fPIC -O3 -fPIC -std=gnu++14 -o CMakeFiles/power_proto.dir/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/power.pb.cc.o -c /home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/power.pb.cc",
+  "file": "/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/power.pb.cc"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped",
+  "command": "/usr/bin/g++ -DCARES_STATICLIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"quadruped\\\" -Dsensor_proto_EXPORTS -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped -isystem /home/guanlunlu/.local/include  -w -fPIC -O3 -fPIC -std=gnu++14 -o CMakeFiles/sensor_proto.dir/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/sensor.pb.cc.o -c /home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/sensor.pb.cc",
+  "file": "/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/sensor.pb.cc"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped/gtest/googlemock",
+  "command": "/usr/bin/g++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped/gtest/googlemock",
+  "command": "/usr/bin/g++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped/gtest/googletest",
+  "command": "/usr/bin/g++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped/gtest/googletest",
+  "command": "/usr/bin/g++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest -fPIC -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped/src/cpg",
+  "command": "/usr/bin/g++ -DCARES_STATICLIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"quadruped\\\" -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped -I/home/guanlunlu/catkin_ws/src/quadruped/src -isystem /usr/local/include/eigen3 -isystem /home/guanlunlu/.local/include  -w -fPIC -O3 -std=gnu++14 -o CMakeFiles/cpg_node.dir/cpg.cpp.o -c /home/guanlunlu/catkin_ws/src/quadruped/src/cpg/cpg.cpp",
+  "file": "/home/guanlunlu/catkin_ws/src/quadruped/src/cpg/cpg.cpp"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped/src/cpg",
+  "command": "/usr/bin/g++ -DCARES_STATICLIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"quadruped\\\" -DSIMULATION -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped -I/home/guanlunlu/catkin_ws/src/quadruped/src -isystem /usr/local/include/eigen3 -isystem /home/guanlunlu/.local/include  -w -fPIC -O3 -std=gnu++14 -o CMakeFiles/cpg_node_webot.dir/cpg.cpp.o -c /home/guanlunlu/catkin_ws/src/quadruped/src/cpg/cpg.cpp",
+  "file": "/home/guanlunlu/catkin_ws/src/quadruped/src/cpg/cpg.cpp"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped/src/kinematic",
+  "command": "/usr/bin/g++ -DLinkLegModel_EXPORTS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"quadruped\\\" -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped -I/home/guanlunlu/catkin_ws/src/quadruped/src  -w -fPIC -O3 -fPIC -std=gnu++14 -o CMakeFiles/LinkLegModel.dir/LinkLegModel.cpp.o -c /home/guanlunlu/catkin_ws/src/quadruped/src/kinematic/LinkLegModel.cpp",
+  "file": "/home/guanlunlu/catkin_ws/src/quadruped/src/kinematic/LinkLegModel.cpp"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped/src/kinematic",
+  "command": "/usr/bin/g++ -DLegModel_EXPORTS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"quadruped\\\" -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped -I/home/guanlunlu/catkin_ws/src/quadruped/src -isystem /usr/local/include/eigen3  -w -fPIC -O3 -fPIC -std=gnu++14 -o CMakeFiles/LegModel.dir/Leg.cpp.o -c /home/guanlunlu/catkin_ws/src/quadruped/src/kinematic/Leg.cpp",
+  "file": "/home/guanlunlu/catkin_ws/src/quadruped/src/kinematic/Leg.cpp"
+},
+{
+  "directory": "/home/guanlunlu/catkin_ws/build/quadruped/src/ros_corgi_bridge",
+  "command": "/usr/bin/g++ -DCARES_STATICLIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"quadruped\\\" -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped -I/home/guanlunlu/catkin_ws/src/quadruped/src -isystem /home/guanlunlu/.local/include  -w -fPIC -O3 -std=gnu++14 -o CMakeFiles/ros_corgi_bridge.dir/src/main.cpp.o -c /home/guanlunlu/catkin_ws/src/quadruped/src/ros_corgi_bridge/src/main.cpp",
+  "file": "/home/guanlunlu/catkin_ws/src/quadruped/src/ros_corgi_bridge/src/main.cpp"
+}
+]

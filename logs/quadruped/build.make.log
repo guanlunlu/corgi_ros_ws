@@ -1,0 +1,31 @@
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 10%] Built target doc_proto
+[ 10%] Built target geometry_proto
+[ 15%] Built target force_proto
+[ 20%] Built target motor_proto
+[ 25%] Built target robot_proto
+[ 31%] Built target sensor_proto
+[ 39%] Built target LinkLegModel
+[ 37%] Built target power_proto
+[ 43%] Built target LegModel
+[ 44%] [32m[1mLinking CXX executable /home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/cpg_node[0m
+[ 46%] [32m[1mLinking CXX executable /home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/cpg_node_webot[0m
+[ 46%] Built target _quadruped_generate_messages_check_deps_motor
+[ 46%] Built target _quadruped_generate_messages_check_deps_LegStamped
+[ 46%] Built target _quadruped_generate_messages_check_deps_impedance
+[ 46%] Built target _quadruped_generate_messages_check_deps_RobotStamped
+[ 46%] Built target _quadruped_generate_messages_check_deps_force
+[ 55%] Built target quadruped_generate_messages_lisp
+[ 82%] Built target quadruped_generate_messages_eus
+[ 82%] Built target quadruped_generate_messages_nodejs
+[ 84%] Built target quadruped_generate_messages_py
+[ 93%] Built target quadruped_generate_messages_cpp
+[ 93%] Built target quadruped_generate_messages
+[ 94%] [32m[1mLinking CXX executable /home/guanlunlu/catkin_ws/devel/.private/quadruped/lib/quadruped/ros_corgi_bridge[0m
+[ 96%] Built target cpg_node_webot
+[ 98%] Built target cpg_node
+[100%] Built target ros_corgi_bridge

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guanlunlu/catkin_ws/src/quadruped/src/kinematic/LinkLegModel.cpp
+LinkLegModel.hpp
+/home/guanlunlu/catkin_ws/src/quadruped/src/kinematic/LinkLegModel.hpp
+
+/home/guanlunlu/catkin_ws/src/quadruped/src/kinematic/LinkLegModel.hpp
+cmath
+-
+complex
+-
+iostream
+-
+mutex
+-
+
